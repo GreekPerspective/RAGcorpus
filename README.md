@@ -4,7 +4,7 @@ The Ancient Greek corpus RAG (a sample from Thucydides’ History of the Pelopon
 
 We present the REPORTS annotation scheme in the paper at https://www.aclweb.org/anthology/W17-0806.pdf . A more detailed version including certain decisions that we made in the manual can be found below. We also provide an accompanying list of embedding entities and their (default) classification rules we used.
  
-After the annotation of the corpus in BRAT we have ported the annotated corpus to ANNIS to carry out more complex search queries. The corpus can be found at \url{https://applejack.science.ru.nl/annis-gui-3.4.4/} (select Thucydides from the corpus list). Here you can also find some example queries. 
+After the annotation of the corpus in BRAT we have ported the annotated corpus to ANNIS to carry out more complex search queries. The corpus can be found at https://applejack.science.ru.nl/annis-gui-3.4.4/ (select Thucydides from the corpus list). Here you can also find some example queries. 
 
 # License
 
