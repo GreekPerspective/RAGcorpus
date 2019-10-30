@@ -1,6 +1,6 @@
 # RAG corpus
 
-The Ancient Greek corpus RAG (a sample from Thucydides’ History of the Peloponnesian War) is manually annotated with speech, attitude and perception reports. Lemmas and Part-of-Speech tags in the corpus are not manually added but the output of the Ancient Greek lemmatizer and POS-tagger that we developed (see https://github.com/GreekPerspective/glem, also for the accuracy). The research is supported by the EU under FP7, ERC Starting Grant 338421-Perspective.
+The Ancient Greek corpus RAG (a sample from Thucydides’ History of the Peloponnesian War) is manually annotated with speech, attitude and perception reports. Lemmas and Part-of-Speech tags in the corpus are not manually added but the output of the Ancient Greek lemmatizer and POS-tagger that we developed (see https://github.com/GreekPerspective/glem, also for the accuracy). The research is supported by the EU under FP7, ERC Starting Grant 338421-Perspective (see http://ncs.ruhosting.nl/perspective/).
 
 We present the REPORTS annotation scheme in the paper at https://www.aclweb.org/anthology/W17-0806.pdf . A more detailed version including certain decisions that we made in the manual can be found below. We also provide an accompanying list of embedding entities and their (default) classification rules we used, as well as an explanation of the POS strings.
  
